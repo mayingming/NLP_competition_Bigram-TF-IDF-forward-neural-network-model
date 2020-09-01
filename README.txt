@@ -1,7 +1,8 @@
+The challenge of the project is to build a system that detects whether a document contains climate change misinformation.
+The task is framed as a binary classification problem: a document either contains climate change
+misinformation or it doesn’t.
 
-The folder contains 
-
-Project2020.pdf  Report for the project in pdf
+The folder contains: 
 
 Bertmodel.py Python file which implements Sentence level Bert embedding bidirectional LSTM model 
 
